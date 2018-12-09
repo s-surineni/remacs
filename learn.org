@@ -2,4 +2,10 @@
 ** but make is not working saying makefile does not exist
 * first merge I was able to find is , 853da4b27d67d7d3f48b819f2c7fd65fe13751e1
 ** 8b46d3417648b9ed103970dad8cc28d232e41066 just keeping for safety but not necessary
-* first commit with rust files I was able to find is bd4aa6d27fa
+* first commit with rust files I was able to find is bd4aa6d27faa6b63455f29202ce81cdc59f972e5
+* documenting macros is at  428a134ea73308e86b5f60acfacf2e0df4e27c40
+* looks like lib.rs is the main file
+* looks like first call from c to rust is made in commit 5b5305332911edb9b1365f7261b63747825d9820
+* looks like emacs is successfully build first at  19633664991222f665476018a2c272869dcde6d1
+* lib.rs has been factored into lisp.rs at 4f7aa6bdf96dd9026b363e601664ab6543a21aed
+* may be building it will work at 83cba75bf376f0872cac41d02be1c604f8361d7c
